@@ -12,7 +12,7 @@ const profile = {
   github: "https://github.com/raushank7460",
   linkedin: "https://www.linkedin.com/in/raushan-kumar-aaa146333/",
   resume: "/resume.pdf",
-  photo: "src/my.jpeg",
+  photo: "#",
   bio:
     "💻 Full Stack Developer | Java & MERN Stack | DSA Enthusiast | Building scalable web applications | Open Source Learner | Always learning, always building 🚀."
 
@@ -44,15 +44,15 @@ const projects = [
   title: "Expense Tracker",
   desc: "A MERN-based expense tracking application that helps users manage income and expenses, view transaction history, and monitor their financial balance through an intuitive dashboard.",
   tech: "React • Node.js • Express.js • MongoDB • JWT • REST API",
-  github: "#",
-  live: "#"
+  github: "https://github.com/raushank7460/track-expanse",
+  live: "https://track-expanse-prfn.vercel.app/"
 },
 {
   title: "TaskFlow",
   desc: "A MERN-based task management application that enables users to create, update, organize, and track tasks with secure authentication and a responsive user interface.",
   tech: "React • Node.js • Express.js • MongoDB • JWT • REST API",
-  github: "#",
-  live: "#"
+  github: "https://github.com/raushank7460/TaskFlow",
+  live: "https://task-flow-six-alpha-29.vercel.app/"
 },
 ];
 
