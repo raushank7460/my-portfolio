@@ -45,7 +45,7 @@ const projects = [
   desc: "A MERN-based expense tracking application that helps users manage income and expenses, view transaction history, and monitor their financial balance through an intuitive dashboard.",
   tech: "React • Node.js • Express.js • MongoDB • JWT • REST API",
   github: "https://github.com/raushank7460/track-expanse",
-  live: "https://track-expanse-prfn.vercel.app/"
+  live: "https://track-expanse.vercel.app/"
 },
 {
   title: "TaskFlow",
