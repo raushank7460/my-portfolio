@@ -469,7 +469,8 @@ const profile = {
   linkedin: "https://www.linkedin.com/in/raushan-kumar-aaa146333/",
   instagram: "https://www.instagram.com/your_username",
   facebook: "https://www.facebook.com/your_username",
-  resume: "src/Raushan_Kumar_Resumes.pdf",
+  // resume: "src/Raushan_Kumar_Resumes.pdf",
+  resume: "/Raushan_Kumar_Resumes.pdf",
   photo: "#",
   bio:
     "💻 Full Stack Developer | Java & MERN Stack | DSA Enthusiast | Building scalable web applications | Open Source Learner | Always learning, always building 🚀."
