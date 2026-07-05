@@ -13,7 +13,8 @@ const profile = {
   instagram: "https://www.instagram.com/raushanyadav_6/",
   facebook: "https://www.facebook.com/your_username",
   // resume: "src/Raushan_Kumar_Resumes.pdf",
-  resume: "/Raushan_Kumar_Resumes.pdf",
+ resume: "public/resume-2.pdf",
+
   photo: "#",
   bio:
     "💻 Full Stack Developer | Java & MERN Stack | DSA Enthusiast | Building scalable web applications | Open Source Learner | Always learning, always building 🚀."
