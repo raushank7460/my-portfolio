@@ -13,7 +13,7 @@ const profile = {
   instagram: "https://www.instagram.com/raushanyadav_6/",
   facebook: "https://www.facebook.com/your_username",
   // resume: "src/Raushan_Kumar_Resumes.pdf",
- resume: "public/resume-2.pdf",
+    resume: "/resume-2.pdf",
 
   photo: "#",
   bio:
