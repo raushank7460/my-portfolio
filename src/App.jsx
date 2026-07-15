@@ -9,11 +9,11 @@ const profile = {
     "I build modern, scalable and responsive web applications using the MERN Stack.",
   email: "raushank7460@gmail.com",
   github: "https://github.com/raushank7460",
-  linkedin: "https://www.linkedin.com/in/raushan-kumar-aaa146333/",
+  linkedin: "https://www.linkedin.com/in/raushan-kumar-449969421/a",
   instagram: "https://www.instagram.com/raushanyadav_6/",
   facebook: "https://www.facebook.com/your_username",
   // resume: "src/Raushan_Kumar_Resumes.pdf",
-    resume: "/resume-2.pdf",
+    resume: "/Raushan_resume.pdf",
 
   photo: "#",
   bio:
